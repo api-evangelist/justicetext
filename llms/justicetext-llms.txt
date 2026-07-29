@@ -1,0 +1,25 @@
+# JusticeText
+
+> JusticeText is an AI-powered discovery and evidence-review platform for public defenders and criminal defense attorneys. It transcribes and translates audio/video evidence (body-worn camera, dashcam, jail calls, courtroom proceedings) in 100+ languages, syncs multi-camera timelines, generates AI summaries, and produces court-ready clips with redaction and closed captioning. The MirandaAI assistant surfaces connections across discovery, builds timelines, and flags inconsistencies. Backed by 500 Global and Bloomberg Beta.
+
+This is an API Evangelist network profile. JusticeText publishes a web application (platform.justicetext.com) but does not publish a public developer API, OpenAPI specification, or SDK as of this writing. This llms.txt is generated from the API Evangelist catalog entry; it is not a provider-published document.
+
+## Product
+- [Product overview](https://justicetext.com/product): Transcription/translation, evidence integration (Google Drive, Dropbox, OneDrive, Box, Clio), MirandaAI assistant, multi-camera syncing, AI summaries, video clipping and redaction.
+- [How-to guides](https://justicetext.com/how-to): Task-based user guides for the platform.
+- [Case studies](https://justicetext.com/case-studies): Public defender office deployments.
+- [Platform application](https://platform.justicetext.com/): The JusticeText web application (login required).
+
+## Company
+- [Website](https://justicetext.com)
+- [About](https://justicetext.com/about)
+- [Blog](https://justicetext.com/blog)
+- [Request access](https://justicetext.com/interest-form)
+
+## Legal
+- [Terms of Service](https://justicetext.com/terms-of-service)
+- [Privacy Policy](https://justicetext.com/privacy-policy)
+
+## Artifacts (API Evangelist)
+- [APIs.json](https://raw.githubusercontent.com/api-evangelist/justicetext/refs/heads/main/apis.yml)
+- [Domain security probe](https://raw.githubusercontent.com/api-evangelist/justicetext/refs/heads/main/security/justicetext-domain-security.yml)
