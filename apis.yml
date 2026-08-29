@@ -11,6 +11,17 @@ description: JusticeText is an AI-powered discovery and evidence-review platform
   provider's public web surface; JusticeText ships a web application but does not
   currently publish a public developer API or OpenAPI specification.
 url: https://raw.githubusercontent.com/api-evangelist/justicetext/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
